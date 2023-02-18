@@ -67,6 +67,9 @@ p {
   color: white;
   border-radius: 4px;
 }
+.first-link hover {
+  color: white;
+}
 
 .homepage-link {
   color: var(--primary-color);
